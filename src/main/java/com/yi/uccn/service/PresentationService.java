@@ -5,7 +5,6 @@ import com.yi.uccn.model.Presentation;
 /**
  * 简介
  * @author YI
- * @date 2018-8-29 23:18:13
  */
 public interface PresentationService {
     /**

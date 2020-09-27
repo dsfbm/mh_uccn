@@ -13,7 +13,6 @@ import java.net.URLEncoder;
 /**
  * cookie操作
  * @author YI
- * @date 2018-7-20 11:31:33
  */
 public class CookieUtil {
     public static Cookie[] getCookies() {

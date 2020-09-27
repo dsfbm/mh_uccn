@@ -19,7 +19,6 @@ import java.util.HashMap;
 /**
  * FastDFS文件系统操作(现已改为图床)
  * @author YI
- * @date 2018-8-7 10:37:27
  */
 @Controller
 @RequestMapping("/fastdfs")

@@ -3,7 +3,6 @@ package com.yi.uccn.utils;
 /**
  * 命令指令
  * @author YI
- * @date 2018-4-29 19:15:37
  */
 public enum Status {
     GREEN("正常使用", (byte)0), RED("已被删除", (byte)-1);

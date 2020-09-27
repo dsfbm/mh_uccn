@@ -15,7 +15,6 @@ import java.util.List;
 /**
  * 联系详情
  * @author YI
- * @date 2018-8-29 21:31:04
  */
 @RestController
 @RequestMapping("/contact")

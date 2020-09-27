@@ -3,7 +3,6 @@ package com.yi.uccn.model;
 /**
  * 图床
  * @author YI
- * @date 2019-1-11 09:26:29
  */
 public class Sm {
 

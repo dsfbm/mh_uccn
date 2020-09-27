@@ -3,7 +3,6 @@ package com.yi.uccn.model;
 /**
  * 图床数据
  * @author YI
- * @date 2019-1-11 09:27:21
  */
 public class Data {
 

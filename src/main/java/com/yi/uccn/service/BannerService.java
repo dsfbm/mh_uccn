@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 首页图片
  * @author YI
- * @date 2018-8-29 14:35:32
  */
 public interface BannerService {
 

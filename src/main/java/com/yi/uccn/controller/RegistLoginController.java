@@ -25,7 +25,6 @@ import java.util.List;
 /**
  * 登录注册
  * @author YI
- * @date 2018-7-19 15:58:19
  */
 @Controller()
 @RequestMapping("/user")
@@ -89,6 +88,8 @@ public class RegistLoginController {
             return respMessage;
         }
 
+
+        //用到了Md5加密工具
         User user1 = userList.get(0);
         if (!user1.getPassword().equals(DigestUtil.md5Hex(user.getPassword()))){
             respMessage.setCode(-1);

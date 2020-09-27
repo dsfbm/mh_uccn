@@ -19,7 +19,7 @@ layui.use(['form','layer','jquery','laypage'],function(){
             $('#phoneemail').html('<h4>联系方式</h4> <p> Phone: ' + obj.contacts[0].phone +
                 ' <br>Email : <a href=' + obj.contacts[0].email + '> ' + obj.contacts[0].email + ' </a></p>');
             $('#qqwx').html('<h4>社交通讯</h4> <p> QQ: ' + obj.contacts[0].qq + ' <br> 微信 : ' + obj.contacts[0].wx + '</p>');
-            $('#ownership').html('<h4>版权信息</h4> <p>© 2018 ' + obj.contacts[0].ownership + ' 保留所有权利</p>');
+            $('#ownership').html('<h4>版权信息</h4> <p>© 2020 ' + obj.contacts[0].ownership + ' 保留所有权利</p>');
 
             // 简介
             $('#titleBrief').html('<h4>'+ obj.presentation.title +'</h4> <p>' + obj.presentation.brief + '</p>');

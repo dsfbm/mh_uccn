@@ -15,7 +15,6 @@ import java.util.Map;
 /**
  * 图床上传工具
  * @author YI
- * @date 2019-1-11 09:32:10
  */
 public class SmUtil {
     /**
